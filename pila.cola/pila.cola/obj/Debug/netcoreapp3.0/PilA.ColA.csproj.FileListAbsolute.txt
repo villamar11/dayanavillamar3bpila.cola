@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.exe
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.deps.json
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.runtimeconfig.json
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.runtimeconfig.dev.json
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.dll
+C:\Users\user\source\repos\pila.cola\pila.cola\bin\Debug\netcoreapp3.0\PilA.ColA.pdb
+C:\Users\user\source\repos\pila.cola\pila.cola\obj\Debug\netcoreapp3.0\PilA.ColA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\pila.cola\pila.cola\obj\Debug\netcoreapp3.0\PilA.ColA.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\pila.cola\pila.cola\obj\Debug\netcoreapp3.0\PilA.ColA.AssemblyInfo.cs
+C:\Users\user\source\repos\pila.cola\pila.cola\obj\Debug\netcoreapp3.0\PilA.ColA.dll
+C:\Users\user\source\repos\pila.cola\pila.cola\obj\Debug\netcoreapp3.0\PilA.ColA.pdb
